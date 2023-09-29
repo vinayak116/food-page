@@ -1,0 +1,26 @@
+#nav{
+    background-color: rgb(79, 54, 54);
+    padding: 15px;
+    text-align: left;
+    word-spacing:30px;
+    
+    
+}
+p{text-align:center;
+     
+}
+
+.images{
+    width: 500px;
+    height: 500px;
+    text-align: center;
+}
+#copy{
+    text-align: left;
+}
+.photo{
+    text-align: center;
+}
+html{
+    scroll-behavior: smooth;
+}
